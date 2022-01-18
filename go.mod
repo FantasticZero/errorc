@@ -1,3 +1,3 @@
-module github.com/mhafizhrh/errorc
+module github.com/FantasticZero/errorc
 
 go 1.17
